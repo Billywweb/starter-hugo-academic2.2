@@ -1,8 +1,8 @@
 ---
 title: Alassane Diallo
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: " Quant developper, Quant analyst , AI Researcher"
+avatar_filename: avatar.png
+bio: " Currently working as a Quantitative Analyst at LSEG "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -51,6 +51,4 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+my interest lies in the intersection of Statistical & Computational methods and Artificial Intelligence and their applications in Finance. More specifically, I am interested in leveraging state-of-the-art statistical methods and their application in Risk management and Portfolio optimization. Apart from that, I have also a keen interest in understanding International finance, Microfinance, Sustainable investing, and the economy of Banking, Money, and the financial market.{style="text-align: justify;"}
